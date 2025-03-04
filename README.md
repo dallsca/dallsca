@@ -9,6 +9,9 @@
 - 💬 문의: [Email](howfly0078l@gmail.com) | [GitHub](https://github.com/dallsca)
 
 
+# 📈 My GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
 # 🛠 Tech Stack
 ## 🖥️ Software Development
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -25,6 +28,5 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 
-# 📈 My GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
 
