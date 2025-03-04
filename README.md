@@ -9,7 +9,7 @@
 
 
 # 📈 My GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dallsca&show_icons=true&theme=default)
 
 # 🚀 Tech Stack
 ## 🖥️ Software Development
