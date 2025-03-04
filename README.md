@@ -7,3 +7,12 @@
 - 🔭 관심 기술: **Embedded Systems, IoT, Linux, System Programming**
 - 🌱 현재 배우는 중: **Embedded Linux & System Software**
 - 💬 문의: [Email](howfly0078l@gmail.com) | [GitHub](https://github.com/dallsca)
+
+
+### 🛠 Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
