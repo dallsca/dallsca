@@ -1,1 +1,1 @@
-![Banner](https://capsule-render.vercel.app/api?type=typing&color=1E3A8A&height=100&section=header&fontAlign=50&fontSize=30&text=Hi,+I'm+youngmin!&animation=typing&fontColor=ffffff&fontAlignY=40&theme=light&bgColor=87CEEB&format=png)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:87CEEB,100:1E3A8A&height=300&section=header&text=Hi,+I'm+youngmin!&fontSize=60&fontColor=ffffff&animation=fadeIn)
