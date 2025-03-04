@@ -6,7 +6,6 @@
 - 🏫 **Soongsil University** | IT융합 전공
 - 🔭 관심 기술: **Embedded Systems, IoT, Linux, System Programming**
 - 🌱 현재 배우는 중: **Embedded Linux & System Software**
-- 💬 문의: [Email](howfly0078l@gmail.com) | [GitHub](https://github.com/dallsca)
 
 
 # 📈 My GitHub Statistics
