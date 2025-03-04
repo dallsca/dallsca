@@ -12,7 +12,7 @@
 # 📈 My GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 ## 🖥️ Software Development
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
