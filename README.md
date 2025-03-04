@@ -9,7 +9,7 @@
 - 💬 문의: [Email](howfly0078l@gmail.com) | [GitHub](https://github.com/dallsca)
 
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 ## 🖥️ Software Development
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
